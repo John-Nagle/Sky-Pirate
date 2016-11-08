@@ -1,6 +1,9 @@
 # Sky-Pirate
 The Sky Pirate, by Garrett P. Serviss, a serial from 1911 being recovered from old newspapers.
 
+Click here to read Chapter I:
+https://github.com/John-Nagle/Sky-Pirate/blob/master/src/chapter01.pdf
+
 *The Sky Pirate* is a novel published in serial form in newspapers in 1911. It
 was written by Garrett P. Serviss, who also wrote *Edison's Conquest of Mars*, an
 attempt at a sequel to H.G. Wells' *War of the Worlds*.
@@ -24,6 +27,7 @@ results will be submitted to Project Gutenberg.
 # Current status: 
 
 Chapters 1-7 of 20 are in .odt format and readable with OpenOffice or LibreOffice.
+Chapter 1 is available as a PDF file.
 
 If you are interested in helping, let us know, and start on a chapter not done yet.
 If you convert a chapter, submit a pull request.  Thanks.
