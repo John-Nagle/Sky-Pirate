@@ -31,3 +31,9 @@ Chapter 1 is available as a PDF file.
 
 If you are interested in helping, let us know, and start on a chapter not done yet.
 If you convert a chapter, submit a pull request.  Thanks.
+
+As of December, 2019, after three years, no one has expressed any interest in this project.
+No pull requests. No forks. 
+Frankly, it's a terrible book.
+After putting seven chapters online, it wasn't worth finishing the job to see how the story ends.
+If you read through Chapter 7, you'll have figured out where the plot is going, anyway.
